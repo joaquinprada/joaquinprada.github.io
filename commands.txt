@@ -1,0 +1,4 @@
+Usefull commands:
+
+test website: jekyll serve --watch --port 4444
+download changes github: git pull
